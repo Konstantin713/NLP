@@ -1,5 +1,7 @@
 # NLP
-Classification of the text into ten classes. Аine-tuning the transformer model.
+Classification of the text into ten classes. Fine-tuning the transformer model.
+
+
 Results
 
               precision    recall  f1-score   support
