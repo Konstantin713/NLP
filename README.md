@@ -1,6 +1,7 @@
 # NLP
 Classification of the text into ten classes. Fine-tuning the transformer model.
-
+## Dataset
+Music Album Reviews and Ratings Dataset.This dataset contains 80K music album reviews by the users of rateyourmusic.com.
 
 Results
 
